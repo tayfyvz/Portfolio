@@ -1,7 +1,5 @@
 # Portfolio
 Links In Readme File
-https://apps.apple.com/tr/app/move-aside/id1610076350
-
 
       https://apps.apple.com/tr/app/stamp-around/id1645321211
       
